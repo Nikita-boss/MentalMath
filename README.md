@@ -1,5 +1,2 @@
-# CheckMe
-This is the first file.
-
-# Sub-header
-Some more text.
+# Description
+The program tests your arithmetic abilities.
